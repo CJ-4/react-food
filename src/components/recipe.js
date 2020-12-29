@@ -12,7 +12,8 @@ class Recipe extends Component {
 
     render() {
         return(
-            <div></div>
+            <div>Recipe</div>
         );
     }
 }
+export default Recipe;
